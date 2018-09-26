@@ -7,7 +7,7 @@
   <body>
     <?php
 
-    
+    echo "Este fichero esta editado";
 
 
      ?>
